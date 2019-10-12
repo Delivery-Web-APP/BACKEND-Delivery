@@ -17,7 +17,7 @@ Olá, bem vindo ao repositorio do backend do pwa.
 
 # Gerenciamento do projeto
   - Iremos utilizar o github como versionamento de código como já viu.
-  - E também o trello para separação e execução das tarefas, e sempre mantenha o grupo informado.
+  - E também o trello (link no grupo) para separação e execução das tarefas, e sempre mantenha o grupo informado.
 
 
 
