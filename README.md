@@ -1,7 +1,7 @@
 # Back-end-Delivery
 Olá, bem vindo ao repositorio do backend do pwa.
 
-# Requerimentos
+# Requisitos
   - Vontade de aprender<BR>
   - Python3<BR>
   - Flask<BR>
